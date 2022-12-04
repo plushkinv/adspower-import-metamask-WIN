@@ -1,6 +1,6 @@
 # adspower-import-metamask-WIN
 
-!!!Версия скрипта для пользователей Windows, Смотрите инструкцию https://youtu.be/K-xwRRE6iZA
+!!!Версия скрипта для пользователей Windows, Смотрите инструкцию https://youtu.be/K-xwRRE6iZA            
 !! Автор скрипта PLushkin https://t.me/plushkin_blog   
 ! По мотивам оригинального скрипта Ивана https://t.me/hodlmodeth
 
